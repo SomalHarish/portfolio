@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    color:#333;
+}
+
+header{
+    background:#0077cc;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+section{
+    padding:30px;
+    margin:20px;
+    background:white;
+    border-radius:10px;
+}
+
+h2{
+    color:#0077cc;
+    margin-bottom:15px;
+}
+
+ul{
+    list-style:none;
+}
+
+ul li{
+    padding:8px;
+}
+
+.project{
+    margin-bottom:15px;
+}
+
+footer{
+    text-align:center;
+    background:#222;
+    color:white;
+    padding:15px;
+}
